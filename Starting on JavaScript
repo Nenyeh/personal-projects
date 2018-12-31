@@ -1,0 +1,50 @@
+var x = 32;
+undefined
+x
+32
+var WhereAmI = "Grats, Austria";
+undefined
+WhereAmI
+"Grats, Austria"
+x = 45;
+45
+x
+45
+var monster1 = "Grover", monster2 = 'cookie monster', monster3 ='Animal';
+undefined
+monster1
+"Grover"
+monster2
+"cookie monster"
+monster3
+"Animal"
+var presidentofUSA = "Buhari";
+undefined
+presidentofUSA
+"Buhari"
+Math.round (12.9873669)
+13
+Math.round (12.37638)
+12
+Math.random ();
+0.15050627585208431
+"This is Joe's favorite book"
+"This is Joe's favorite book"
+"This is Joe's \"favorite\" string"
+"This is Joe's "favorite" string"
+var mystring = "This is my string. Leave it alone";
+undefined
+mystring
+"This is my string. Leave it alone"
+mystring.length
+33
+mystring.toUpperCase
+ƒ toUpperCase() { [native code] }
+mystring.toUpperCase();
+"THIS IS MY STRING. LEAVE IT ALONE"
+"This is my string".length;
+17
+var myLocation = "Berea", myotherLocation = "Ohio";
+undefined
+myLocation == myotherLocation
+false
